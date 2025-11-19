@@ -16,7 +16,7 @@ export default function PhotosScreen({ onNext }) {
     "/images/baby6.jpg",
     "/images/baby2.jpg",
     "/images/baby3.jpg",
-    "/images/baby5.jpg",  
+    "/images/baby5.jpg",   
   ]
 
   return (
