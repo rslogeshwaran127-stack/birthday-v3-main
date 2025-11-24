@@ -27,10 +27,10 @@ export default function MessageScreen({ onNext }) {
                     className=" h-auto max-w-xl bg-gradient-to-br from-pink-200 via-pink-100 to-pink-50 rounded-2xl shadow-lg p-4 md:p-6 text-center"
                 >
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
-                       Happy Birthday to the most adorable little star!  
-Wishing you a day full of laughter, fun, and yummy cake.  
-May your year ahead be filled with love, excitement, and all your favorite things.  
-Have a fantastic celebration!  
+                       Happy Birthday 🎉
+I hope this new year of your life brings you peace, success, and the kind of happiness that stays.
+No matter how life changed, I still respect the bond we once had.
+Wishing you nothing but good days ahead. 
 
                     </p>
                 </motion.div>
