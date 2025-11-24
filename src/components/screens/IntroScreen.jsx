@@ -18,7 +18,7 @@ export default function IntroScreen({ onNext }) {
                         style={{
                             filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                         }}>
-                        A Lathika was born today, Twenty-one years ago!
+                        A Lathika was born today, Twenty-ones years ago!
                     </h1>
                     <p className="mt-4 text-xl text-pink-200">Yes, it’s YOU! A little surprise awaits...</p>
                 </div>
